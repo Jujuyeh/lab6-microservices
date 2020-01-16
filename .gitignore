@@ -22,3 +22,7 @@ gradle-app.setting
 *.ipr
 *.iws
 .DS_Store
+.project
+.settings
+bin
+.classpath
