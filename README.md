@@ -21,3 +21,4 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab6-mic
 | 698570 | [Miguel Escribano](https://github.com/a698570) |[test](https://github.com/a698570/lab6-microservices/tree/test) | |
 | 738866 | [Javier Giménez Garces](https://github.com/javibite) |[test](https://github.com/javibite/lab6-microservices/tree/test) | |
 | 721529 | [Jorge Fernandez](https://github.com/jorge97fernandez) |[test](https://github.com/jorge97fernandez/lab6-microservices/tree/test) | |
+| 736478 | [Víctor Martínez Batlle](https://github.com/vmbatlle) |[test](https://github.com/vmbatlle/lab6-microservices/tree/test) | [bonus](https://github.com/vmbatlle/lab6-microservices/tree/bonus) | :gift:
